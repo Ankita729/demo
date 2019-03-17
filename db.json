@@ -1,3 +1,62 @@
 {
-  "users":[]
+  "users": [
+    {
+      "id": "neelanjan.sen@gmail.com",
+      "password": "12345678",
+      "notes": [
+        {
+          "id": 1548669.723835503,
+          "title": "take bath",
+          "description": "Yeah, I'm pathetic, i've to remind myself to take bath everyday"
+        },
+        {
+          "id": 2065717.6985248907,
+          "title": "YAAAAY!!!",
+          "description": "I've finally made this app multi user"
+        },
+        {
+          "id": 324563231.78873706,
+          "title": "hi",
+          "description": "hello"
+        }
+      ]
+    },
+    {
+      "id": "Priyanshi",
+      "password": "1234567",
+      "notes": [
+        {
+          "id": 26725678.603864517,
+          "title": "hi",
+          "description": "hello"
+        },
+        {
+          "id": 195419309.75460023,
+          "title": "hey",
+          "description": "Take your note"
+        },
+        {
+          "id": 266192313.75742844,
+          "title": "hey",
+          "description": "new note"
+        }
+      ]
+    },
+    {
+      "id": "Rishi",
+      "password": "1234567",
+      "notes": [
+        {
+          "id": 59708963.71541823,
+          "title": "rdsfty",
+          "description": "hgdwkj"
+        }
+      ]
+    },
+    {
+      "id": "Amisha",
+      "password": "1234567",
+      "notes": []
+    }
+  ]
 }
